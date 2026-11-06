@@ -1,0 +1,8 @@
+aiogram
+flask
+aiohttp
+requests
+qrcode[pil]
+Pillow
+python-dotenv
+werkzeug
